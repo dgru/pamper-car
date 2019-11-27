@@ -1,7 +1,7 @@
 # PAMPer Clustering and Regression (pamper-car)
 
 An analysis of markers of inflammation and endothelial damage in PAMPer patients
-R code for analysis associated with Gruen et al., 2019 (in prep)
+R code for analysis associated with Gruen et al., 2019 (in prep for submission to JCI Insight)
 
 Includes code for summary statistics, principal component analysis, clustering analysis, regression models and manuscript tables and figures.
 
