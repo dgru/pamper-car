@@ -408,7 +408,7 @@ ggplot(df,
     res_df <- cbind(term, res_df)
     res_df
 
-## Table: Beta Coefficients for 24 hour model
+## Table: Beta Coefficients for 0 hour model
     df <- res_df
     df <- df[,-c(2,5)] # specify a df and drop the second column
     # xtable(df, digits=c(0,2,2,2,2,-2))
