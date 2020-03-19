@@ -1,5 +1,7 @@
 # PAMPer Clustering and Regression (pamper-car)
 
+PAMPer Trial DOI: 10.1056/NEJMoa1802345
+
 An analysis of markers of inflammation and endothelial damage in PAMPer patients
 
 Includes code for summary statistics, principal component analysis (PCA), hierarchical clustering analysis (PCA), regression models and manuscript tables and figures.
